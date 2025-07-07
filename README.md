@@ -24,12 +24,12 @@ A proposta é simples: explore o tabuleiro e tente afundar todos os navios e sub
 ---
 ## Estrutura do projeto
 📁 batalha-narval
-├── exibicao.py          # Exibe o menu, tabuleiro, mensagens e símbolos
-├── FrontEnd.py          # Interface principal com menu e lógica de jogo
-├── main.py              # Exibe legenda dos símbolos usados
-├── persistencia.py      # Salva e exibe o ranking de jogadores
-├── ranking.txt          # Arquivo local com os melhores resultados
-└── tabuleiro.py         # Lógica de jogo: criação, jogadas e verificação
+-├── exibicao.py          # Exibe o menu, tabuleiro, mensagens e símbolos
+-├── FrontEnd.py          # Interface principal com menu e lógica de jogo
+-├── main.py              # Exibe legenda dos símbolos usados
+-├── persistencia.py      # Salva e exibe o ranking de jogadores
+-├── ranking.txt          # Arquivo local com os melhores resultados
+-└── tabuleiro.py         # Lógica de jogo: criação, jogadas e verificação
 
 
 ---
