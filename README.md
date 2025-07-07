@@ -1,6 +1,6 @@
 ## 🐋 Batalha Narval
 Um jogo de **batalha naval com temática de narvais**, criado em Python.  
-A proposta é simples: explore o tabuleiro e tente afundar todos os navios e submarinos inimigos com o menor número possível de jogadas!
+A proposta é simples: explore o tabuleiro e tente afundar todos os navios e submarinos inimigos com o menor número possível de jogadas.
 
 ---
 ## Pré-requisitos
@@ -24,7 +24,7 @@ A proposta é simples: explore o tabuleiro e tente afundar todos os navios e sub
 
 ---
 ##  Autoria
-Desenvolvido por Sarah Barrozo Perazolo
-Estudante de Análise e Desenvolvimento de Sistemas
+Desenvolvido por Sarah Barrozo Perazolo.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 
