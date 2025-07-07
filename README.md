@@ -20,10 +20,17 @@ A proposta é simples: explore o tabuleiro e tente afundar todos os navios e sub
 - Submarinos: 3 (ocupam 2 células cada, posicionados aleatoriamente na horizontal ou vertical)
 - Símbolos no tabuleiro:
 
-     ■ — área não explorada
-     _ — água
-     ⌖ — parte de submarino atingida
-     X — navio ou submarino afundado
+     ■ área não explorada /  _ água / ⌖ parte de submarino atingida / X navio ou submarino afundado 
+---
+## Estrutura do projeto
+📁 batalha-narval
+├── exibicao.py          # Exibe o menu, tabuleiro, mensagens e símbolos
+├── FrontEnd.py          # Interface principal com menu e lógica de jogo
+├── main.py              # Exibe legenda dos símbolos usados
+├── persistencia.py      # Salva e exibe o ranking de jogadores
+├── ranking.txt          # Arquivo local com os melhores resultados
+└── tabuleiro.py         # Lógica de jogo: criação, jogadas e verificação
+
 
 ---
 ##  Autoria
