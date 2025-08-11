@@ -22,9 +22,5 @@ A proposta é simples: explore o tabuleiro e tente afundar todos os navios e sub
 
      ■ área não explorada  /   _ água  /  ⌖ parte de submarino atingida  /  X navio ou submarino afundado
 
----
-##  Autoria
-Desenvolvido por Sarah Barrozo Perazolo.
-Estudante de Análise e Desenvolvimento de Sistemas.
 
 
